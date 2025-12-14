@@ -1,0 +1,7 @@
+# Project Dependencies
+aiofiles>=0.8.0      # Async file operations
+aiohttp>=3.8.0       # Async HTTP client
+gtts>=2.3.0          # Google Text-to-Speech
+pydub>=0.25.1        # Audio processing
+pyTelegramBotAPI>=4.12.0  # Telegram Bot API
+SpeechRecognition>=3.8.1  # Speech recognition
